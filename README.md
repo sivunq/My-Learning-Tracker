@@ -17,14 +17,14 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**JavaScript**                    | ![done][done]     | ![done][done]          | ![done][done]    |
 |**ES6**                           | ![done][done]     | ![done][done]          | ![done][done]    |
 |**React**                         | ![done][done]     | ![done][done]          | ![done][done]    |
-|**StoryBook**                     | ![done][done]     | ![done][done]          | ![done][done]    |
+|**StoryBook**                     |                   |                        |                  |
 |**Redux**                         | ![done][done]     | ![done][done]          |                  |
-|**Backbone**                      | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Backbone**                      |                   |                        |                  |
 |**Git**                           | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Git bash**                      | ![done][done]     | ![done][done]          | ![done][done]    |
 |**GitHub**                        | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Bitbucket**                     | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Gulp/Webpack**                  | ![done][done]     | ![done][done]          |                  |
+|**Bitbucket**                     |                   |                        |                  |
+|**Gulp/Webpack**                  |                   |                        |                  |
 |**Prettier**                      | ![done][done]     | ![done][done]          | ![done][done]    |
 |**EsLint**                        | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Agile**                         | ![done][done]     | ![done][done]          | ![done][done]    |
@@ -32,10 +32,10 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**NPM**                           | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Yarn**                          | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Working with APIs**             | ![done][done]     | ![done][done]          | ![done][done]    |
-|**CSS Grid & Flex-box**           | ![done][done]     | ![done][done]          | ![done][done]    |
+|**CSS Grid & Flex-box**           |                   |                        |                  |
 |**jQuery**                        | ![done][done]     | ![done][done]          | ![done][done]    |
 |**PostCSS**                       | ![done][done]     | ![done][done]          |                  |
-|**Stylus**                        | ![done][done]     | ![done][done]          |                  |
+|**Stylus**                        |                   |                        |                  |
 |**Responsive design**             | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Mobile first**                  | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Progressive Enhancement**       | ![done][done]     | ![done][done]          | ![done][done]    |
